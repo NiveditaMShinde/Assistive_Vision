@@ -1,6 +1,6 @@
 # Assistive_Vision
-
-# Computer Vision based Assistive Technology for blind and visually impaired people
+Computer Vision based Assistive Technology for blind and visually impaired people
+![image](https://user-images.githubusercontent.com/66831307/150796720-0c5717b5-6879-46fe-9e59-e4614865029e.png)
 
 # Aim of the Project:
 Creation a model which will work to assist visually impaired people. This product will detect objects or any other activities and will reflect the same in the form of audio, so that person can easily know about what’s happening in his/her surroundings.
